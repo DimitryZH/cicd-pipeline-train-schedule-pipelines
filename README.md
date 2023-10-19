@@ -1,3 +1,6 @@
+# After commit of this new line as a change in my GitHub repository will trigger a new build #10 in my Jenkins project called  "train-schedule" .
+
+
 # cicd-pipeline-train-schedule-pipelines
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
