@@ -1,4 +1,4 @@
-# After commit GitHub repository will trigger a new build #10 in my Jenkins project called  "train-schedule" .
+# After commit GitHub will trigger a new build #10 in my Jenkins project called  "train-schedule" .
 
 
 # cicd-pipeline-train-schedule-pipelines
