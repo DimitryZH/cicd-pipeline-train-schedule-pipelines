@@ -1,4 +1,4 @@
-# After changes I have made in this line GitHub will trigger a new build #10 in my Jenkins fristyle project called  "train-schedule" .
+# "After the changes I have made to this line, GitHub will trigger a new build, labeled as #12, in my Jenkins Freestyle project named 'train-schedule' .
 
 
 # cicd-pipeline-train-schedule-pipelines
