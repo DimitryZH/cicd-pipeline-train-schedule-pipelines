@@ -1,6 +1,3 @@
-# "After the changes I have made to this line, GitHub will trigger a new build, labeled as #12, in my Jenkins Freestyle project named 'train-schedule' .
-
-
 # cicd-pipeline-train-schedule-pipelines
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
